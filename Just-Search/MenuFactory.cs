@@ -6,7 +6,7 @@ using System.Text;
 namespace Just_Search {
     internal class MenuFactory {
 
-        internal Menu CreateMenu() {
+        internal Menu CreateMenu(string html) {
             return new Menu();
         }
 

@@ -5,6 +5,6 @@ using System.Text;
 
 namespace Just_Search {
     public class Menu {
-        IEnumerable<MenuItem> MenuItems { get; set; }
+        public IEnumerable<MenuItem> MenuItems { get; set; }
     }
 }

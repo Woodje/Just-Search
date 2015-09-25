@@ -7,3 +7,5 @@ C:\Users\54430\Documents\Just-Search\Just-Search-UnitTest\obj\Debug\Just-Search-
 C:\Users\54430\Documents\Just-Search\Just-Search-UnitTest\obj\Debug\Just-Search-UnitTest.pdb
 C:\Users\54430\Documents\Just-Search\Just-Search-UnitTest\bin\Debug\nunit.framework.dll
 C:\Users\54430\Documents\Just-Search\Just-Search-UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\54430\Documents\Just-Search\Just-Search-UnitTest\obj\Debug\Just_Search_UnitTest.Properties.Resources.resources
+C:\Users\54430\Documents\Just-Search\Just-Search-UnitTest\obj\Debug\Just-Search-UnitTest.csproj.GenerateResource.Cache
